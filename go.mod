@@ -4,7 +4,7 @@ go 1.13
 
 // replace github.com/micro/go-micro/v2 => /Users/schintha/Developer/Work/go/3rd-party/go-micro
 // FIXME : https://github.com/etcd-io/etcd/issues/11563
-replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
+replace google.golang.org/grpc => google.golang.org/grpc v1.27.1
 
 // replace github.com/coreos/go-systemd => github.com/coreos/go-systemd/v22 v22.0.0
 
